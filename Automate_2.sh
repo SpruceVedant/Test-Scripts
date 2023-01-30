@@ -27,5 +27,4 @@ task3() {
 task1
 task2
 task3
-
 # End of script
