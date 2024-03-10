@@ -39,3 +39,6 @@ for file in *; do
 done
 
 echo "Automation complete!"
+
+
+chmod +x organize_files.sh
