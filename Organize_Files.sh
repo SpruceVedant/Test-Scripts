@@ -41,4 +41,5 @@ done
 echo "Automation complete!"
 
 
-chmod +x organize_files.sh
+# chmod +x organize_files.sh
+# ./organize_files.sh
